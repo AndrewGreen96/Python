@@ -1,4 +1,4 @@
 # Python
 Python progress
 
-This is my first github activity.
+In this repository I will be uploading my progress in learning the programming language Python.
