@@ -1,7 +1,8 @@
 # Python
 Python progress
 
-In this repository I will be uploading my progress in learning the programming language Python.
+In this repository I will be uploading my progress in learning the programming language Python.<br/>
+I will be actively going through and completing the tasks at the end of each chapter of 'Python Crash Course, 2nd edition by Eric Matthes'.
 
 Definitions:
 
