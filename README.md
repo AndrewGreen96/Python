@@ -7,4 +7,4 @@ I will be actively going through and completing the tasks at the end of each cha
 Definitions:<br/>
 String - A string is a series of characters.<br/>
 Float - Any number that has a decimal point is considered a Float.<br/>
-List - A list is a collection of items in a particular order.
+List - A list is a collection of elements in a particular order.
