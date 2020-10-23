@@ -1,5 +1,5 @@
 # 3.4 Guest List
-# Create that includes the names of guests that you would invite to dinner and then send each of them a message inviting them to dinner.
+# Create a list that includes the names of guests that you would invite to dinner and then send each of them a message inviting them to dinner.
 
 guest_list = []
 guest_list.append('che guevara')
